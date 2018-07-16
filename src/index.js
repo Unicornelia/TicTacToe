@@ -1,15 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import '../src/counter/counter';
-
-// class Timer extends React.Component {
-//   render() {
-//     return (
-//       <div>Click here to start a timer!</div>
-//     );
-//   }
-// }
 
 function Square(props) {
   return (
