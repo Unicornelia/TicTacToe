@@ -1,8 +1,9 @@
-#Tic Tac Toe 
+##Tic Tac Toe 
 
-The classical game built with JS and React
+###The classical game built with JS and React
 
 To run the game:
 1. clone the project first
-```npm install```
-```npm start```
+2. ```npm install```
+3.  ```npm start```
+4. Happy playing! :)
