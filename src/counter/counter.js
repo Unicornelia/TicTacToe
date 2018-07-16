@@ -13,9 +13,7 @@ const counter = (state = 0, action) => {
 
 const store = createStore(counter);
 
-console.log(store.getState());
 store.dispatch({type: 'INCREMENT'});
-console.log(store.getState());
 
 store.subscribe(() => {
   document.body.innerText = store.getState();
